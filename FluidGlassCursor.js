@@ -36,7 +36,7 @@ function FluidPointer() {
 
     const canCapture = () => {
       const root = document.querySelector("#fluid-glass-root");
-      return root && getComputedStyle(root).display !== "none" && !document.body.classList.contains("is-route-loading");
+      return root && getComputedStyle(root).display !== "none";
     };
 
     const captureViewport = async () => {
@@ -76,11 +76,13 @@ function FluidPointer() {
             clonedDocument.documentElement.style.setProperty("--stage-scale", "1");
             clonedDocument.body.style.zoom = "1";
           },
-          ignoreElements: (element) => element.id === "fluid-glass-root" || element.classList?.contains("packaging-project")
+          ignoreElements: (element) => element.id === "fluid-glass-root" || element.classList?.contains("route-loader") || element.classList?.contains("packaging-project")
         });
 
         captureImage = canvas.toDataURL("image/png");
         lastCaptureAt = performance.now();
+        document.body.classList.add("is-fluid-glass-ready");
+        window.dispatchEvent(new Event("fluid-glass-ready"));
       } catch (error) {
         captureImage = "";
       } finally {

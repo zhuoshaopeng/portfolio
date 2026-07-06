@@ -155,7 +155,6 @@ body.is-fluid-glass-enabled #fluid-glass-root {
   display: block;
 }
 
-body.is-glass-paused #fluid-glass-root,
 body.is-route-loading #fluid-glass-root,
 body.is-glass-over-nav #fluid-glass-root,
 body.is-artworks-text-cursor-active #fluid-glass-root,
@@ -232,15 +231,15 @@ body.is-glass-over-nav button {
   pointer-events: none;
   overflow: hidden;
   background:
-    radial-gradient(circle at 30% 24%, rgba(255, 255, 255, 0.46) 0 9%, rgba(255, 255, 255, 0.12) 30%, rgba(255, 255, 255, 0.03) 62%, rgba(255, 255, 255, 0) 82%),
-    radial-gradient(circle at 62% 68%, rgba(160, 225, 238, 0.06), rgba(255, 255, 255, 0) 66%);
+    radial-gradient(circle at 30% 24%, rgba(255, 255, 255, 0.34) 0 9%, rgba(255, 255, 255, 0.1) 30%, rgba(255, 255, 255, 0.025) 62%, rgba(255, 255, 255, 0) 82%),
+    radial-gradient(circle at 62% 68%, rgba(160, 225, 238, 0.04), rgba(255, 255, 255, 0) 66%);
   box-shadow:
-    inset 13px 12px 24px rgba(255, 255, 255, 0.46),
-    inset -12px -10px 22px rgba(28, 48, 70, 0.08),
-    0 8px 18px rgba(0, 0, 0, 0.045);
-  backdrop-filter: blur(0.08px) brightness(1.02);
-  -webkit-backdrop-filter: blur(0.08px) brightness(1.02);
-  opacity: 0.98;
+    inset 13px 12px 24px rgba(255, 255, 255, 0.36),
+    inset -12px -10px 22px rgba(28, 48, 70, 0.055),
+    0 8px 18px rgba(0, 0, 0, 0.03);
+  backdrop-filter: blur(0.04px) brightness(1.015);
+  -webkit-backdrop-filter: blur(0.04px) brightness(1.015);
+  opacity: 0.92;
 }
 
 .fluid-glass-capture {
@@ -249,8 +248,8 @@ body.is-glass-over-nav button {
   z-index: 1;
   border-radius: 50%;
   background-repeat: no-repeat;
-  opacity: 1;
-  filter: saturate(1.06) contrast(1.04);
+  opacity: 0.76;
+  filter: saturate(1.04) contrast(1.03);
   image-rendering: auto;
 }
 
@@ -261,12 +260,12 @@ body.is-glass-over-nav button {
   z-index: 2;
   border-radius: 50%;
   background:
-    radial-gradient(circle at 34% 30%, rgba(255, 255, 255, 0.26), rgba(255, 255, 255, 0.04) 44%, rgba(255, 255, 255, 0) 72%);
+    radial-gradient(circle at 34% 30%, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.03) 44%, rgba(255, 255, 255, 0) 72%);
   box-shadow:
-    inset 10px 9px 18px rgba(255, 255, 255, 0.28),
-    inset -10px -9px 18px rgba(30, 54, 76, 0.06);
-  backdrop-filter: blur(0.06px) brightness(1.02);
-  -webkit-backdrop-filter: blur(0.06px) brightness(1.02);
+    inset 10px 9px 18px rgba(255, 255, 255, 0.2),
+    inset -10px -9px 18px rgba(30, 54, 76, 0.04);
+  backdrop-filter: blur(0.03px) brightness(1.015);
+  -webkit-backdrop-filter: blur(0.03px) brightness(1.015);
 }
 
 body.is-fluid-glass-enabled,

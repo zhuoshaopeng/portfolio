@@ -131,6 +131,16 @@ let loaderProgressTimer = 0;
 let specialProjectScrollFrame = 0;
 
 const sleep = (duration) => new Promise((resolve) => window.setTimeout(resolve, duration));
+const waitForFluidGlassReady = () => {
+  if (document.body.classList.contains("is-fluid-glass-ready")) {
+    return Promise.resolve();
+  }
+
+  return Promise.race([
+    new Promise((resolve) => window.addEventListener("fluid-glass-ready", resolve, { once: true })),
+    sleep(2000)
+  ]);
+};
 
 const preloadImage = (image) => new Promise((resolve) => {
   if (!image || image.complete) {
@@ -648,7 +658,8 @@ window.addEventListener(
 Promise.all([
   preloadSectionMedia(".hero"),
   preloadSectionMedia("#about"),
-  sleep(920)
+  sleep(920),
+  waitForFluidGlassReady()
 ]).then(() => {
   setLoaderVisible(false);
 });
