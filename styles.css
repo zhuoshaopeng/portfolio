@@ -155,6 +155,7 @@ body.is-fluid-glass-enabled #fluid-glass-root {
   display: block;
 }
 
+body.is-glass-paused #fluid-glass-root,
 body.is-route-loading #fluid-glass-root,
 body.is-glass-over-nav #fluid-glass-root,
 body.is-artworks-text-cursor-active #fluid-glass-root,

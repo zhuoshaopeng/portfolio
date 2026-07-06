@@ -546,7 +546,7 @@ const updateActiveSection = () => {
     document.body.classList.remove("is-contact-jump");
   }
   document.body.dataset.sectionTone = current === "hero" || current === "contact" ? "dark" : "light";
-  document.body.classList.toggle("is-fluid-glass-enabled", current === "hero" || current === "about" || current === "experience");
+  document.body.classList.toggle("is-fluid-glass-enabled", current === "hero" || current === "about");
   document.body.dataset.scrollingStarted = window.scrollY > 50 ? "true" : "false";
   document.body.dataset.scrollingDirection = window.scrollY >= lastScrollY ? "down" : "up";
   document.body.dataset.navVisible = window.scrollY >= aboutTop - 1;

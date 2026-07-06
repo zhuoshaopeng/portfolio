@@ -167,6 +167,10 @@ function FluidPointer() {
     window.addEventListener("pointermove", onPointerMove, { passive: true });
     const onScroll = () => {
       isScrollPaused = true;
+      captureImage = "";
+      if (captureRef.current) {
+        captureRef.current.style.backgroundImage = "";
+      }
       window.clearTimeout(scrollResumeTimer);
       scrollResumeTimer = window.setTimeout(() => {
         isScrollPaused = false;
