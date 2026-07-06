@@ -1343,7 +1343,6 @@ const initBrandBrandingProjects = async () => {
   let detailMotionFrame = 0;
 
   const projectUrl = (project, file, variant = "display") => optimizedImageUrl(`${project.basePath}/${file}`, variant);
-  const originalProjectUrl = (project, file) => encodeURI(`${project.basePath}/${file}`);
 
   const setLink = (link, url) => {
     if (!url) {
@@ -1478,7 +1477,7 @@ const initBrandBrandingProjects = async () => {
     }
 
     setLoaderVisible(true, "brand");
-    const mediaUrls = project.media.map((file) => originalProjectUrl(project, file));
+    const mediaUrls = project.media.map((file) => projectUrl(project, file, "display"));
     await Promise.all([
       Promise.race([
         Promise.all(mediaUrls.map((src) => preloadImage(Object.assign(new Image(), {
