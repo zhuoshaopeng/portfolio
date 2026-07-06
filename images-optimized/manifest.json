@@ -1,0 +1,3151 @@
+{
+  "created_at": "2026-07-03 17:33:39",
+  "items": [
+    {
+      "source": "04-project-brand branding-02.png",
+      "source_bytes": 138371,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/04-project-brand branding-02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 11582
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/04-project-brand branding-02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 3626
+      }
+    },
+    {
+      "source": "04-project-packaging-01.png",
+      "source_bytes": 169377,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/04-project-packaging-01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 20194
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/04-project-packaging-01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 7298
+      }
+    },
+    {
+      "source": "04-project-packaging-02.png",
+      "source_bytes": 138371,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/04-project-packaging-02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 11582
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/04-project-packaging-02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 3626
+      }
+    },
+    {
+      "source": "04-project-packaging-card-01.png",
+      "source_bytes": 74409738,
+      "display": {
+        "ok": false,
+        "error": "Image size (220275000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.",
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/04-project-packaging-card-01.webp"
+      },
+      "thumb": {
+        "ok": false,
+        "error": "Image size (220275000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.",
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/04-project-packaging-card-01.webp"
+      }
+    },
+    {
+      "source": "04-project-packaging-card-02.png",
+      "source_bytes": 20174024,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/04-project-packaging-card-02.webp",
+        "width": 2560,
+        "height": 454,
+        "bytes": 121334
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/04-project-packaging-card-02.webp",
+        "width": 1200,
+        "height": 213,
+        "bytes": 32562
+      }
+    },
+    {
+      "source": "04-project-popup design-03.png",
+      "source_bytes": 170225,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/04-project-popup design-03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 18992
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/04-project-popup design-03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 6846
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/01.png",
+      "source_bytes": 3024526,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 139368
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 34896
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/02.png",
+      "source_bytes": 3487792,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 137196
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 37318
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/03.png",
+      "source_bytes": 1605720,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 98192
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 26330
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/04.png",
+      "source_bytes": 3167849,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/04.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 225486
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/04.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 66158
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/05.png",
+      "source_bytes": 379002,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/05.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 41022
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/05.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 10610
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/06.png",
+      "source_bytes": 2247163,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/06.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 87786
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/06.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 21360
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/07.png",
+      "source_bytes": 25233741,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/07.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 356056
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/07.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 86962
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/08.png",
+      "source_bytes": 14562135,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/08.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 164456
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/08.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 38574
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/09.png",
+      "source_bytes": 6989785,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/09.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 58950
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/09.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 14702
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/10.png",
+      "source_bytes": 10973981,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/10.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 89472
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/10.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 21150
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/11.png",
+      "source_bytes": 7156613,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/11.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 236564
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/11.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 59280
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/12.png",
+      "source_bytes": 7935253,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/12.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 290958
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/12.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 67666
+      }
+    },
+    {
+      "source": "brand-branding/01-project-OR/cover.png",
+      "source_bytes": 327436,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/01-project-OR/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 46330
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/01-project-OR/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 14970
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/01.webp",
+      "source_bytes": 4917314,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 402970
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 94094
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/02.webp",
+      "source_bytes": 4784280,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 285492
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 60132
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/03.webp",
+      "source_bytes": 1163386,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 202330
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 61288
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/04.webp",
+      "source_bytes": 1815384,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/04.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 117352
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/04.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 27094
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/05.webp",
+      "source_bytes": 1181540,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/05.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 85986
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/05.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 25396
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/06.webp",
+      "source_bytes": 2600890,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/06.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 198778
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/06.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 42290
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/07.webp",
+      "source_bytes": 1901698,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/07.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 183430
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/07.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 51908
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/08.webp",
+      "source_bytes": 3585840,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/08.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 214828
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/08.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 52420
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/09.webp",
+      "source_bytes": 2568738,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/09.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 206908
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/09.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 55874
+      }
+    },
+    {
+      "source": "brand-branding/02-project-illombo/cover.webp",
+      "source_bytes": 3769626,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/02-project-illombo/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 310978
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/02-project-illombo/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 74006
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/01.png",
+      "source_bytes": 1297494,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 108270
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 27776
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/02.png",
+      "source_bytes": 1764719,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 356146
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 111710
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/03.png",
+      "source_bytes": 2373471,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 183870
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 31268
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/04.png",
+      "source_bytes": 2332120,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/04.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 174436
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/04.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 28406
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/05.png",
+      "source_bytes": 2494303,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/05.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 137042
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/05.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 33386
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/06.png",
+      "source_bytes": 2281911,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/06.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 133362
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/06.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 26132
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/07.png",
+      "source_bytes": 3147186,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/07.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 287714
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/07.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 63290
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/08.png",
+      "source_bytes": 9095859,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/08.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 183324
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/08.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 26918
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/09.png",
+      "source_bytes": 9471529,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/09.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 218732
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/09.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 28176
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/10.png",
+      "source_bytes": 9103700,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/10.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 230096
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/10.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 29464
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/11.png",
+      "source_bytes": 9375457,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/11.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 205932
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/11.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 26374
+      }
+    },
+    {
+      "source": "brand-branding/03-project-illombo upgrate/cover.png",
+      "source_bytes": 11362683,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/03-project-illombo upgrate/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 382594
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/03-project-illombo upgrate/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 53916
+      }
+    },
+    {
+      "source": "brand-branding/04-project-little freddie/01.webp",
+      "source_bytes": 2336568,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/04-project-little freddie/01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 160816
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/04-project-little freddie/01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 52218
+      }
+    },
+    {
+      "source": "brand-branding/04-project-little freddie/02.webp",
+      "source_bytes": 1735518,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/04-project-little freddie/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 172050
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/04-project-little freddie/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 50436
+      }
+    },
+    {
+      "source": "brand-branding/04-project-little freddie/03.webp",
+      "source_bytes": 682620,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/04-project-little freddie/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 110240
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/04-project-little freddie/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 37762
+      }
+    },
+    {
+      "source": "brand-branding/04-project-little freddie/04.webp",
+      "source_bytes": 1471552,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/04-project-little freddie/04.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 247820
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/04-project-little freddie/04.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 72926
+      }
+    },
+    {
+      "source": "brand-branding/04-project-little freddie/05.webp",
+      "source_bytes": 2642400,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/04-project-little freddie/05.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 178088
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/04-project-little freddie/05.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 56880
+      }
+    },
+    {
+      "source": "brand-branding/04-project-little freddie/06.webp",
+      "source_bytes": 4438918,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/04-project-little freddie/06.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 329964
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/04-project-little freddie/06.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 78602
+      }
+    },
+    {
+      "source": "brand-branding/04-project-little freddie/07.webp",
+      "source_bytes": 2968792,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/04-project-little freddie/07.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 206306
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/04-project-little freddie/07.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 49482
+      }
+    },
+    {
+      "source": "brand-branding/04-project-little freddie/cover.webp",
+      "source_bytes": 215322,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/04-project-little freddie/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 24694
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/04-project-little freddie/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 8332
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/01.png",
+      "source_bytes": 403530,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 72444
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 27984
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/02.png",
+      "source_bytes": 171029,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 20008
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 6838
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/03.png",
+      "source_bytes": 243291,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 28056
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 8148
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/04.png",
+      "source_bytes": 338289,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/04.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 53672
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/04.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 18806
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/05.png",
+      "source_bytes": 157431,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/05.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 18282
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/05.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 6266
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/06.webp",
+      "source_bytes": 1870122,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/06.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 307026
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/06.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 107822
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/07.webp",
+      "source_bytes": 2280362,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/07.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 233360
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/07.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 91606
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/08.webp",
+      "source_bytes": 926142,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/08.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 55066
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/08.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 21504
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/09.webp",
+      "source_bytes": 1345638,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/09.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 87732
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/09.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 29600
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/10.webp",
+      "source_bytes": 2708328,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/10.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 198624
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/10.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 56768
+      }
+    },
+    {
+      "source": "brand-branding/05-project-synvia/cover.webp",
+      "source_bytes": 146488,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/05-project-synvia/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 21354
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/05-project-synvia/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 7212
+      }
+    },
+    {
+      "source": "brand-branding/06-project-1939/01.webp",
+      "source_bytes": 2390178,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/06-project-1939/01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 177412
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/06-project-1939/01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 51224
+      }
+    },
+    {
+      "source": "brand-branding/06-project-1939/02.webp",
+      "source_bytes": 2451812,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/06-project-1939/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 202958
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/06-project-1939/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 54284
+      }
+    },
+    {
+      "source": "brand-branding/06-project-1939/03.webp",
+      "source_bytes": 3129104,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/06-project-1939/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 308276
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/06-project-1939/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 76680
+      }
+    },
+    {
+      "source": "brand-branding/06-project-1939/cover.webp",
+      "source_bytes": 149808,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/06-project-1939/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 20146
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/06-project-1939/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 6306
+      }
+    },
+    {
+      "source": "brand-branding/07-project-omma/01.webp",
+      "source_bytes": 3086314,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/07-project-omma/01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 351690
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/07-project-omma/01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 92804
+      }
+    },
+    {
+      "source": "brand-branding/07-project-omma/02.webp",
+      "source_bytes": 1374682,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/07-project-omma/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 65054
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/07-project-omma/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 12938
+      }
+    },
+    {
+      "source": "brand-branding/07-project-omma/03.webp",
+      "source_bytes": 2800508,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/07-project-omma/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 112020
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/07-project-omma/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 27020
+      }
+    },
+    {
+      "source": "brand-branding/07-project-omma/04.webp",
+      "source_bytes": 4333066,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/07-project-omma/04.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 182370
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/07-project-omma/04.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 36070
+      }
+    },
+    {
+      "source": "brand-branding/07-project-omma/05.webp",
+      "source_bytes": 1571688,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/07-project-omma/05.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 123146
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/07-project-omma/05.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 34632
+      }
+    },
+    {
+      "source": "brand-branding/07-project-omma/06.webp",
+      "source_bytes": 3461914,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/07-project-omma/06.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 181422
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/07-project-omma/06.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 40400
+      }
+    },
+    {
+      "source": "brand-branding/07-project-omma/07.webp",
+      "source_bytes": 1188950,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/07-project-omma/07.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 87656
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/07-project-omma/07.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 23554
+      }
+    },
+    {
+      "source": "brand-branding/07-project-omma/cover.webp",
+      "source_bytes": 130058,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/07-project-omma/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 18710
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/07-project-omma/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 6074
+      }
+    },
+    {
+      "source": "brand-branding/08-project-heysee/01.jpg",
+      "source_bytes": 10805858,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/08-project-heysee/01.webp",
+        "width": 2560,
+        "height": 1822,
+        "bytes": 445404
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/08-project-heysee/01.webp",
+        "width": 1200,
+        "height": 854,
+        "bytes": 148920
+      }
+    },
+    {
+      "source": "brand-branding/08-project-heysee/02.webp",
+      "source_bytes": 1609088,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/08-project-heysee/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 200292
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/08-project-heysee/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 63024
+      }
+    },
+    {
+      "source": "brand-branding/08-project-heysee/03.webp",
+      "source_bytes": 1467262,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/08-project-heysee/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 256478
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/08-project-heysee/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 80012
+      }
+    },
+    {
+      "source": "brand-branding/08-project-heysee/04.webp",
+      "source_bytes": 1729346,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/08-project-heysee/04.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 319974
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/08-project-heysee/04.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 101050
+      }
+    },
+    {
+      "source": "brand-branding/08-project-heysee/cover.webp",
+      "source_bytes": 153802,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/08-project-heysee/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 22240
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/08-project-heysee/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 8170
+      }
+    },
+    {
+      "source": "brand-branding/09-project-oilfree/01.webp",
+      "source_bytes": 750156,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/09-project-oilfree/01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 158096
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/09-project-oilfree/01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 52364
+      }
+    },
+    {
+      "source": "brand-branding/09-project-oilfree/02.webp",
+      "source_bytes": 1382774,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/09-project-oilfree/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 199298
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/09-project-oilfree/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 63662
+      }
+    },
+    {
+      "source": "brand-branding/09-project-oilfree/03.webp",
+      "source_bytes": 1305276,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/09-project-oilfree/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 169050
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/09-project-oilfree/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 48498
+      }
+    },
+    {
+      "source": "brand-branding/09-project-oilfree/cover.webp",
+      "source_bytes": 126890,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/09-project-oilfree/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 17060
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/09-project-oilfree/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 5440
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/01.png",
+      "source_bytes": 786675,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 245348
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 78892
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/02.png",
+      "source_bytes": 403336,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 109920
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 30754
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/03.png",
+      "source_bytes": 196096,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 28500
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 9200
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/04.png",
+      "source_bytes": 238325,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/04.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 32006
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/04.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 10918
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/05.png",
+      "source_bytes": 408251,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/05.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 47566
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/05.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 16414
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/06.png",
+      "source_bytes": 247992,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/06.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 44712
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/06.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 13032
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/07.png",
+      "source_bytes": 356875,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/07.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 66702
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/07.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 20904
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/08.png",
+      "source_bytes": 334080,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/08.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 51030
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/08.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 19080
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/09.png",
+      "source_bytes": 184466,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/09.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 32128
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/09.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 11616
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/10.png",
+      "source_bytes": 11057591,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/10.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 272438
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/10.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 55640
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/11.png",
+      "source_bytes": 21177405,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/11.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 402568
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/11.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 77188
+      }
+    },
+    {
+      "source": "brand-branding/10-project-蓬余/cover.png",
+      "source_bytes": 8160670,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/10-project-蓬余/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 1640942
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/10-project-蓬余/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 307282
+      }
+    },
+    {
+      "source": "brand-branding/12-project-logo design/01-circleclean.webp",
+      "source_bytes": 1430990,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/12-project-logo design/01-circleclean.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 213408
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/12-project-logo design/01-circleclean.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 63688
+      }
+    },
+    {
+      "source": "brand-branding/12-project-logo design/02-DICKWELL.webp",
+      "source_bytes": 196506,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/12-project-logo design/02-DICKWELL.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 31022
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/12-project-logo design/02-DICKWELL.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 11402
+      }
+    },
+    {
+      "source": "brand-branding/12-project-logo design/03-fangfangfang.webp",
+      "source_bytes": 498080,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/12-project-logo design/03-fangfangfang.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 159750
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/12-project-logo design/03-fangfangfang.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 50862
+      }
+    },
+    {
+      "source": "brand-branding/12-project-logo design/04-HUAXIALINHAI.jpg",
+      "source_bytes": 1257477,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/12-project-logo design/04-HUAXIALINHAI.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 49616
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/12-project-logo design/04-HUAXIALINHAI.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 18318
+      }
+    },
+    {
+      "source": "brand-branding/12-project-logo design/05-careygift.jpg",
+      "source_bytes": 1984974,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/12-project-logo design/05-careygift.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 100718
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/12-project-logo design/05-careygift.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 31234
+      }
+    },
+    {
+      "source": "brand-branding/12-project-logo design/06-ZHOUJI noddleshouse.jpg",
+      "source_bytes": 2515042,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/12-project-logo design/06-ZHOUJI noddleshouse.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 87266
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/12-project-logo design/06-ZHOUJI noddleshouse.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 23066
+      }
+    },
+    {
+      "source": "brand-branding/12-project-logo design/cover.jpg",
+      "source_bytes": 1128360,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/brand-branding/12-project-logo design/cover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 35358
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/brand-branding/12-project-logo design/cover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 10466
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/2016-06-04 174338.jpg",
+      "source_bytes": 3422362,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/2016-06-04 174338.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 237362
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/2016-06-04 174338.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 53862
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/2016-06-11 041052.jpg",
+      "source_bytes": 2917958,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/2016-06-11 041052.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 168600
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/2016-06-11 041052.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 32530
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/2016-06-16 093156.jpg",
+      "source_bytes": 2665512,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/2016-06-16 093156.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 322020
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/2016-06-16 093156.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 67188
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/2016-06-16 093657.jpg",
+      "source_bytes": 2983847,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/2016-06-16 093657.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 330598
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/2016-06-16 093657.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 48578
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/2016-06-17 065719.jpg",
+      "source_bytes": 5314999,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/2016-06-17 065719.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 265598
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/2016-06-17 065719.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 68438
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/IMG_20160602_182323.jpg",
+      "source_bytes": 2291703,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/IMG_20160602_182323.webp",
+        "width": 2048,
+        "height": 2560,
+        "bytes": 326028
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/IMG_20160602_182323.webp",
+        "width": 960,
+        "height": 1200,
+        "bytes": 40248
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/IMG_20160619_162310.jpg",
+      "source_bytes": 3064203,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/IMG_20160619_162310.webp",
+        "width": 2560,
+        "height": 1920,
+        "bytes": 408104
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/IMG_20160619_162310.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 83200
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/IMG_20160923_204438.jpg",
+      "source_bytes": 2238678,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/IMG_20160923_204438.webp",
+        "width": 2560,
+        "height": 1920,
+        "bytes": 321538
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/IMG_20160923_204438.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 69334
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/microMsg.1465737977155.jpg",
+      "source_bytes": 2929601,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/microMsg.1465737977155.webp",
+        "width": 1920,
+        "height": 2560,
+        "bytes": 440134
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/microMsg.1465737977155.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 83726
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/microMsg.1466038440948.jpg",
+      "source_bytes": 2736613,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/microMsg.1466038440948.webp",
+        "width": 2560,
+        "height": 1920,
+        "bytes": 331172
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/microMsg.1466038440948.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 70356
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/全景.jpg",
+      "source_bytes": 7026551,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/全景.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 221938
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/全景.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 60134
+      }
+    },
+    {
+      "source": "miss-shanghai/gallery/全景有人影.jpg",
+      "source_bytes": 7431332,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/miss-shanghai/gallery/全景有人影.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 219976
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/miss-shanghai/gallery/全景有人影.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 59224
+      }
+    },
+    {
+      "source": "packaging-longpicture/01-card-detail.webp",
+      "source_bytes": 4150786,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/01-card-detail.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 464766
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/01-card-detail.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 124626
+      }
+    },
+    {
+      "source": "packaging-longpicture/01-card-hover.png",
+      "source_bytes": 22613976,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/01-card-hover.webp",
+        "width": 2560,
+        "height": 1752,
+        "bytes": 568294
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/01-card-hover.webp",
+        "width": 1200,
+        "height": 821,
+        "bytes": 124228
+      }
+    },
+    {
+      "source": "packaging-longpicture/02-card.webp",
+      "source_bytes": 997486,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/02-card.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 97254
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/02-card.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 27282
+      }
+    },
+    {
+      "source": "packaging-longpicture/03-card.webp",
+      "source_bytes": 2832232,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/03-card.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 294352
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/03-card.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 85906
+      }
+    },
+    {
+      "source": "packaging-longpicture/04-card-detail.webp",
+      "source_bytes": 2518984,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/04-card-detail.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 243346
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/04-card-detail.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 69756
+      }
+    },
+    {
+      "source": "packaging-longpicture/04-card-hover.png",
+      "source_bytes": 2532749,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/04-card-hover.webp",
+        "width": 1187,
+        "height": 1434,
+        "bytes": 142752
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/04-card-hover.webp",
+        "width": 993,
+        "height": 1200,
+        "bytes": 60418
+      }
+    },
+    {
+      "source": "packaging-longpicture/05-card.png",
+      "source_bytes": 1081100,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/05-card.webp",
+        "width": 1187,
+        "height": 1434,
+        "bytes": 72132
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/05-card.webp",
+        "width": 993,
+        "height": 1200,
+        "bytes": 39616
+      }
+    },
+    {
+      "source": "packaging-longpicture/06-card.webp",
+      "source_bytes": 2217622,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/06-card.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 358896
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/06-card.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 92366
+      }
+    },
+    {
+      "source": "packaging-longpicture/07-card.png",
+      "source_bytes": 7933148,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/07-card.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 193526
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/07-card.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 68882
+      }
+    },
+    {
+      "source": "packaging-longpicture/08-card.webp",
+      "source_bytes": 3163096,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/08-card.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 232950
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/08-card.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 61988
+      }
+    },
+    {
+      "source": "packaging-longpicture/09-card-detail-01.webp",
+      "source_bytes": 3102908,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/09-card-detail-01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 238372
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/09-card-detail-01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 65430
+      }
+    },
+    {
+      "source": "packaging-longpicture/09-card-detail-02.webp",
+      "source_bytes": 2420976,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/09-card-detail-02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 237022
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/09-card-detail-02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 72056
+      }
+    },
+    {
+      "source": "packaging-longpicture/09-card-hover.jpg",
+      "source_bytes": 7084684,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/09-card-hover.webp",
+        "width": 1440,
+        "height": 2560,
+        "bytes": 205202
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/09-card-hover.webp",
+        "width": 675,
+        "height": 1200,
+        "bytes": 55678
+      }
+    },
+    {
+      "source": "packaging-longpicture/10-card.jpg",
+      "source_bytes": 3986159,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/10-card.webp",
+        "width": 1903,
+        "height": 2560,
+        "bytes": 109496
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/10-card.webp",
+        "width": 892,
+        "height": 1200,
+        "bytes": 29462
+      }
+    },
+    {
+      "source": "packaging-longpicture/11-card.png",
+      "source_bytes": 15765039,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/11-card.webp",
+        "width": 2560,
+        "height": 1429,
+        "bytes": 171042
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/11-card.webp",
+        "width": 1200,
+        "height": 670,
+        "bytes": 42862
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-01.png",
+      "source_bytes": 4360126,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-01.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 85546
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-01.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 25782
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-02.png",
+      "source_bytes": 10871867,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-02.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 132770
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-02.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 26120
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-03.png",
+      "source_bytes": 4446691,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-03.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 182658
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-03.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 27022
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-04.png",
+      "source_bytes": 2908341,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-04.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 73572
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-04.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 21746
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-05.png",
+      "source_bytes": 2984286,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-05.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 82370
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-05.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 25152
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-06.png",
+      "source_bytes": 3327379,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-06.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 51036
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-06.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 11542
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-07.png",
+      "source_bytes": 5482366,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-07.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 83362
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-07.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 22628
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-08.png",
+      "source_bytes": 15798413,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-08.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 152428
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-08.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 34956
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-09.png",
+      "source_bytes": 9648751,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-09.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 90238
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-09.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 19196
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-detail-10.png",
+      "source_bytes": 7012262,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-detail-10.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 97190
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-detail-10.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 22520
+      }
+    },
+    {
+      "source": "packaging-longpicture/12-card-hover.png",
+      "source_bytes": 4669579,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/12-card-hover.webp",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 135798
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/12-card-hover.webp",
+        "width": 1200,
+        "height": 675,
+        "bytes": 43142
+      }
+    },
+    {
+      "source": "packaging-longpicture/13-card.jpeg",
+      "source_bytes": 6072743,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/13-card.webp",
+        "width": 1707,
+        "height": 2560,
+        "bytes": 112808
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/13-card.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 33370
+      }
+    },
+    {
+      "source": "packaging-longpicture/14-card.png",
+      "source_bytes": 2683542,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/14-card.webp",
+        "width": 2560,
+        "height": 1432,
+        "bytes": 387752
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/14-card.webp",
+        "width": 1200,
+        "height": 671,
+        "bytes": 128594
+      }
+    },
+    {
+      "source": "packaging-longpicture/15-card.jpg",
+      "source_bytes": 560598,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/packaging-longpicture/15-card.webp",
+        "width": 2350,
+        "height": 1114,
+        "bytes": 115326
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/packaging-longpicture/15-card.webp",
+        "width": 1200,
+        "height": 569,
+        "bytes": 35020
+      }
+    },
+    {
+      "source": "popup/111skin Spa sharing activity/01.jpg",
+      "source_bytes": 7893006,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/111skin Spa sharing activity/01.webp",
+        "width": 2560,
+        "height": 1706,
+        "bytes": 150832
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/111skin Spa sharing activity/01.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 23396
+      }
+    },
+    {
+      "source": "popup/111skin Spa sharing activity/02.jpg",
+      "source_bytes": 6835453,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/111skin Spa sharing activity/02.webp",
+        "width": 2560,
+        "height": 1706,
+        "bytes": 171504
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/111skin Spa sharing activity/02.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 40700
+      }
+    },
+    {
+      "source": "popup/111skin Spa sharing activity/03.jpg",
+      "source_bytes": 12773625,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/111skin Spa sharing activity/03.webp",
+        "width": 1706,
+        "height": 2560,
+        "bytes": 256694
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/111skin Spa sharing activity/03.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 28768
+      }
+    },
+    {
+      "source": "popup/111skin Spa sharing activity/04.jpg",
+      "source_bytes": 14679859,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/111skin Spa sharing activity/04.webp",
+        "width": 1706,
+        "height": 2560,
+        "bytes": 337550
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/111skin Spa sharing activity/04.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 47498
+      }
+    },
+    {
+      "source": "popup/111skin Spa sharing activity/05.jpg",
+      "source_bytes": 9490730,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/111skin Spa sharing activity/05.webp",
+        "width": 2560,
+        "height": 1706,
+        "bytes": 269476
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/111skin Spa sharing activity/05.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 67234
+      }
+    },
+    {
+      "source": "popup/111skin Spa sharing activity/06.jpg",
+      "source_bytes": 1565720,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/111skin Spa sharing activity/06.webp",
+        "width": 1706,
+        "height": 2560,
+        "bytes": 141140
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/111skin Spa sharing activity/06.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 33250
+      }
+    },
+    {
+      "source": "popup/111skin Spa sharing activity/cover-01.jpg",
+      "source_bytes": 13395024,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/111skin Spa sharing activity/cover-01.webp",
+        "width": 1706,
+        "height": 2560,
+        "bytes": 551586
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/111skin Spa sharing activity/cover-01.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 48330
+      }
+    },
+    {
+      "source": "popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/01.JPG",
+      "source_bytes": 3651842,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/01.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 666094
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/01.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 155910
+      }
+    },
+    {
+      "source": "popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/02.JPG",
+      "source_bytes": 4551542,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/02.webp",
+        "width": 2560,
+        "height": 1705,
+        "bytes": 734428
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/02.webp",
+        "width": 1200,
+        "height": 799,
+        "bytes": 185936
+      }
+    },
+    {
+      "source": "popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/03.JPG",
+      "source_bytes": 4251239,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/03.webp",
+        "width": 2560,
+        "height": 1706,
+        "bytes": 595892
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/03.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 141002
+      }
+    },
+    {
+      "source": "popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/04.JPG",
+      "source_bytes": 4238502,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/04.webp",
+        "width": 2560,
+        "height": 1706,
+        "bytes": 756470
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/04.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 169838
+      }
+    },
+    {
+      "source": "popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/05.JPG",
+      "source_bytes": 5518641,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/05.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 1121702
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/05.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 236502
+      }
+    },
+    {
+      "source": "popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/06.JPG",
+      "source_bytes": 3150308,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/06.webp",
+        "width": 2560,
+        "height": 1705,
+        "bytes": 410974
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/06.webp",
+        "width": 1200,
+        "height": 799,
+        "bytes": 101416
+      }
+    },
+    {
+      "source": "popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/cover.JPG",
+      "source_bytes": 3170939,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/cover.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 327912
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BAZZAR BEAUTY AWARD 2023 — ARgENTUM欧臻廷/cover.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 76852
+      }
+    },
+    {
+      "source": "popup/BULK HOMME pop-up NANJINGXI road/01.JPG",
+      "source_bytes": 9377590,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BULK HOMME pop-up NANJINGXI road/01.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 402418
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BULK HOMME pop-up NANJINGXI road/01.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 93482
+      }
+    },
+    {
+      "source": "popup/BULK HOMME pop-up NANJINGXI road/02.JPG",
+      "source_bytes": 8767821,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BULK HOMME pop-up NANJINGXI road/02.webp",
+        "width": 1707,
+        "height": 2560,
+        "bytes": 362288
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BULK HOMME pop-up NANJINGXI road/02.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 95166
+      }
+    },
+    {
+      "source": "popup/BULK HOMME pop-up NANJINGXI road/03.JPG",
+      "source_bytes": 7926890,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BULK HOMME pop-up NANJINGXI road/03.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 193878
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BULK HOMME pop-up NANJINGXI road/03.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 57272
+      }
+    },
+    {
+      "source": "popup/BULK HOMME pop-up NANJINGXI road/04.JPG",
+      "source_bytes": 7759745,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BULK HOMME pop-up NANJINGXI road/04.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 235262
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BULK HOMME pop-up NANJINGXI road/04.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 66290
+      }
+    },
+    {
+      "source": "popup/BULK HOMME pop-up NANJINGXI road/05.JPG",
+      "source_bytes": 5463531,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BULK HOMME pop-up NANJINGXI road/05.webp",
+        "width": 1707,
+        "height": 2560,
+        "bytes": 142990
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BULK HOMME pop-up NANJINGXI road/05.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 40260
+      }
+    },
+    {
+      "source": "popup/BULK HOMME pop-up NANJINGXI road/06.JPG",
+      "source_bytes": 5840804,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BULK HOMME pop-up NANJINGXI road/06.webp",
+        "width": 1707,
+        "height": 2560,
+        "bytes": 103924
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BULK HOMME pop-up NANJINGXI road/06.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 27898
+      }
+    },
+    {
+      "source": "popup/BULK HOMME pop-up NANJINGXI road/07.JPG",
+      "source_bytes": 17429899,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BULK HOMME pop-up NANJINGXI road/07.webp",
+        "width": 2560,
+        "height": 1707,
+        "bytes": 796874
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BULK HOMME pop-up NANJINGXI road/07.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 114074
+      }
+    },
+    {
+      "source": "popup/BULK HOMME pop-up NANJINGXI road/cover.JPG",
+      "source_bytes": 7902818,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/BULK HOMME pop-up NANJINGXI road/cover.webp",
+        "width": 1707,
+        "height": 2560,
+        "bytes": 193550
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/BULK HOMME pop-up NANJINGXI road/cover.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 41978
+      }
+    },
+    {
+      "source": "popup/OR spring limited pop-up store - HANGZHOU botanical garden/01.png",
+      "source_bytes": 2408416,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/OR spring limited pop-up store - HANGZHOU botanical garden/01.webp",
+        "width": 1080,
+        "height": 1440,
+        "bytes": 222302
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/OR spring limited pop-up store - HANGZHOU botanical garden/01.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 175284
+      }
+    },
+    {
+      "source": "popup/OR spring limited pop-up store - HANGZHOU botanical garden/02.png",
+      "source_bytes": 2534322,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/OR spring limited pop-up store - HANGZHOU botanical garden/02.webp",
+        "width": 1080,
+        "height": 1440,
+        "bytes": 228158
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/OR spring limited pop-up store - HANGZHOU botanical garden/02.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 161696
+      }
+    },
+    {
+      "source": "popup/OR spring limited pop-up store - HANGZHOU botanical garden/03.png",
+      "source_bytes": 2214986,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/OR spring limited pop-up store - HANGZHOU botanical garden/03.webp",
+        "width": 1080,
+        "height": 1440,
+        "bytes": 139794
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/OR spring limited pop-up store - HANGZHOU botanical garden/03.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 111692
+      }
+    },
+    {
+      "source": "popup/OR spring limited pop-up store - HANGZHOU botanical garden/04.png",
+      "source_bytes": 3050013,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/OR spring limited pop-up store - HANGZHOU botanical garden/04.webp",
+        "width": 1080,
+        "height": 1440,
+        "bytes": 355926
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/OR spring limited pop-up store - HANGZHOU botanical garden/04.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 252346
+      }
+    },
+    {
+      "source": "popup/OR spring limited pop-up store - HANGZHOU botanical garden/05.png",
+      "source_bytes": 2093017,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/OR spring limited pop-up store - HANGZHOU botanical garden/05.webp",
+        "width": 1080,
+        "height": 1440,
+        "bytes": 154940
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/OR spring limited pop-up store - HANGZHOU botanical garden/05.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 123468
+      }
+    },
+    {
+      "source": "popup/OR spring limited pop-up store - HANGZHOU botanical garden/06.png",
+      "source_bytes": 2593313,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/OR spring limited pop-up store - HANGZHOU botanical garden/06.webp",
+        "width": 1080,
+        "height": 1440,
+        "bytes": 270708
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/OR spring limited pop-up store - HANGZHOU botanical garden/06.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 204966
+      }
+    },
+    {
+      "source": "popup/OR spring limited pop-up store - HANGZHOU botanical garden/cover.png",
+      "source_bytes": 3029231,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/OR spring limited pop-up store - HANGZHOU botanical garden/cover.webp",
+        "width": 1080,
+        "height": 1440,
+        "bytes": 374800
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/OR spring limited pop-up store - HANGZHOU botanical garden/cover.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 273060
+      }
+    },
+    {
+      "source": "popup/OR水境愈所」上海站/cover.JPG",
+      "source_bytes": 12968337,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/popup/OR水境愈所」上海站/cover.webp",
+        "width": 1441,
+        "height": 2560,
+        "bytes": 373942
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/popup/OR水境愈所」上海站/cover.webp",
+        "width": 675,
+        "height": 1200,
+        "bytes": 36786
+      }
+    },
+    {
+      "source": "project-01.png",
+      "source_bytes": 2393040,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/project-01.webp",
+        "width": 1255,
+        "height": 2560,
+        "bytes": 82416
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/project-01.webp",
+        "width": 588,
+        "height": 1200,
+        "bytes": 29530
+      }
+    },
+    {
+      "source": "project-02.png",
+      "source_bytes": 1630058,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/project-02.webp",
+        "width": 1255,
+        "height": 2560,
+        "bytes": 114344
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/project-02.webp",
+        "width": 588,
+        "height": 1200,
+        "bytes": 46852
+      }
+    },
+    {
+      "source": "project-03.png",
+      "source_bytes": 4093265,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/project-03.webp",
+        "width": 1255,
+        "height": 2560,
+        "bytes": 367856
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/project-03.webp",
+        "width": 588,
+        "height": 1200,
+        "bytes": 100378
+      }
+    },
+    {
+      "source": "project-04.png",
+      "source_bytes": 4030596,
+      "display": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/display/project-04.webp",
+        "width": 1255,
+        "height": 2560,
+        "bytes": 164602
+      },
+      "thumb": {
+        "ok": true,
+        "path": "/Users/zhuo/Documents/作品集/codex/website-code/images-optimized/thumb/project-04.webp",
+        "width": 588,
+        "height": 1200,
+        "bytes": 61962
+      }
+    }
+  ]
+}
