@@ -87,6 +87,28 @@ const jumpToTargetWithoutSmooth = (selector) => {
   });
 };
 
+const jumpToBrandingSectionTop = () => {
+  const top = getTargetTop("#artworks-brand-branding");
+
+  if (top == null) {
+    return;
+  }
+
+  const targetTop = top + 2;
+
+  if (window.siteLenis) {
+    window.siteLenis.scrollTo(targetTop, {
+      immediate: true,
+      duration: 0,
+      lock: true,
+      force: true
+    });
+    window.siteLenis.resize?.();
+  }
+
+  window.scrollTo({ top: targetTop, left: 0, behavior: "auto" });
+};
+
 const clamp = (value, min, max) => Math.min(max, Math.max(min, value));
 const lerp = (start, end, amount) => start + (end - start) * amount;
 const easeMove = (value) => value * value * (3 - 2 * value);
@@ -1538,7 +1560,8 @@ const initBrandBrandingProjects = async () => {
       revealObserver?.disconnect();
       detailMedia.replaceChildren();
       detail.hidden = true;
-      scrollToTarget("#artworks-brand-branding");
+      jumpToBrandingSectionTop();
+      window.requestAnimationFrame(jumpToBrandingSectionTop);
     }, 430);
   };
 
@@ -1839,7 +1862,7 @@ const initPopupProjects = async () => {
 
     button.append(image, title);
     const setHoverBackground = () => {
-      hoverImage.src = encodeURI(`${project.basePath}/${project.cover}`);
+      hoverImage.src = projectUrl(project, project.cover, "display");
       stage.classList.add("is-hovering");
     };
     const moveHoverBackground = (event) => {
